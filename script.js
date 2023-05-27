@@ -30,6 +30,7 @@ let normalHandStyle = () => {
         transform: rotate(0deg)
     `;
 };
+
 //When clicked on username input
 usernameRef.addEventListener("focus", () => {
   eyeL.style.cssText = `
